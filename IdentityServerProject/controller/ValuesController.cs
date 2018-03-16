@@ -24,6 +24,7 @@ namespace IdentityServerProject.controller
         [HttpGet("{id}")]
         public string Get(int id)
         {
+          var  st= 't';
             return "value";
         }
 
