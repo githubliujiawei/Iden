@@ -15,6 +15,8 @@ namespace IdentityServerProject.controller
         [HttpGet]
         public IEnumerable<string> Get()
         {
+            var str = "没意思";
+            str.Substring(1);
             return new string[] { "value1", "value2" };
         }
 
