@@ -12594,13 +12594,13 @@
       "projectName": "IdentityServerProject",
       "projectPath": "/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/IdentityServerProject.csproj",
       "packagesPath": "/Users/liujiawei/.nuget/packages/",
-      "outputPath": "/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj",
+      "outputPath": "/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/liujiawei/.config/NuGet/NuGet.Config"
+        "/Users/liujiawei/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12622,19 +12622,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
+          "IdentityServer4": {
             "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
+            "version": "[2.1.2, )"
           },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
           },
-          "IdentityServer4": {
+          "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.1.2"
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [
