@@ -18,6 +18,7 @@ namespace IdentityServerProject
             services.AddMvc();
             services.AddIdentityServer()
                     .AddDeveloperSigningCredential()
+                    .AddInMemoryIdentityResources(Config.GetIdentityResources())
                     .AddInMemoryApiResources(Config.GetApiResource())
                     .AddInMemoryClients(Config.GetClients())
                     .AddTestUsers(Config.GetUsers());

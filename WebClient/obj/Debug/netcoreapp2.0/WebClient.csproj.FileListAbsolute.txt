@@ -1,0 +1,11 @@
+G:\Pro\Iden\WebClient\bin\Debug\netcoreapp2.0\WebClient.deps.json
+G:\Pro\Iden\WebClient\bin\Debug\netcoreapp2.0\WebClient.runtimeconfig.json
+G:\Pro\Iden\WebClient\bin\Debug\netcoreapp2.0\WebClient.runtimeconfig.dev.json
+G:\Pro\Iden\WebClient\bin\Debug\netcoreapp2.0\WebClient.dll
+G:\Pro\Iden\WebClient\bin\Debug\netcoreapp2.0\WebClient.pdb
+G:\Pro\Iden\WebClient\obj\Debug\netcoreapp2.0\WebClient.csprojResolveAssemblyReference.cache
+G:\Pro\Iden\WebClient\obj\Debug\netcoreapp2.0\WebClient.csproj.CoreCompileInputs.cache
+G:\Pro\Iden\WebClient\obj\Debug\netcoreapp2.0\WebClient.AssemblyInfoInputs.cache
+G:\Pro\Iden\WebClient\obj\Debug\netcoreapp2.0\WebClient.AssemblyInfo.cs
+G:\Pro\Iden\WebClient\obj\Debug\netcoreapp2.0\WebClient.dll
+G:\Pro\Iden\WebClient\obj\Debug\netcoreapp2.0\WebClient.pdb
