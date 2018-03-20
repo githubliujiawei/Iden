@@ -1,0 +1,11 @@
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/bin/Debug/netcoreapp2.0/IdentityServerProject.deps.json
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/bin/Debug/netcoreapp2.0/IdentityServerProject.runtimeconfig.json
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/bin/Debug/netcoreapp2.0/IdentityServerProject.runtimeconfig.dev.json
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/bin/Debug/netcoreapp2.0/IdentityServerProject.dll
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/bin/Debug/netcoreapp2.0/IdentityServerProject.pdb
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.csprojResolveAssemblyReference.cache
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.csproj.CoreCompileInputs.cache
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.AssemblyInfoInputs.cache
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.AssemblyInfo.cs
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.dll
+/Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.pdb
