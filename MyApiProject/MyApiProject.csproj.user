@@ -9,4 +9,10 @@
     <LaunchUrl>api/values</LaunchUrl>
     <ApplicationURL>http://localhost:5001/</ApplicationURL>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>MyApiProject</ActiveDebugProfile>
+  </PropertyGroup>
 </Project>

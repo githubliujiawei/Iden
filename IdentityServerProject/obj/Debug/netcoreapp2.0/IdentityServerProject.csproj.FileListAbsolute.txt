@@ -9,3 +9,14 @@
 /Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.AssemblyInfo.cs
 /Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.dll
 /Users/liujiawei/Projects/IdentityServerProject/IdentityServerProject/obj/Debug/netcoreapp2.0/IdentityServerProject.pdb
+G:\Pro\Iden\IdentityServerProject\bin\Debug\netcoreapp2.0\IdentityServerProject.deps.json
+G:\Pro\Iden\IdentityServerProject\bin\Debug\netcoreapp2.0\IdentityServerProject.runtimeconfig.json
+G:\Pro\Iden\IdentityServerProject\bin\Debug\netcoreapp2.0\IdentityServerProject.runtimeconfig.dev.json
+G:\Pro\Iden\IdentityServerProject\bin\Debug\netcoreapp2.0\IdentityServerProject.dll
+G:\Pro\Iden\IdentityServerProject\bin\Debug\netcoreapp2.0\IdentityServerProject.pdb
+G:\Pro\Iden\IdentityServerProject\obj\Debug\netcoreapp2.0\IdentityServerProject.csprojResolveAssemblyReference.cache
+G:\Pro\Iden\IdentityServerProject\obj\Debug\netcoreapp2.0\IdentityServerProject.csproj.CoreCompileInputs.cache
+G:\Pro\Iden\IdentityServerProject\obj\Debug\netcoreapp2.0\IdentityServerProject.AssemblyInfoInputs.cache
+G:\Pro\Iden\IdentityServerProject\obj\Debug\netcoreapp2.0\IdentityServerProject.AssemblyInfo.cs
+G:\Pro\Iden\IdentityServerProject\obj\Debug\netcoreapp2.0\IdentityServerProject.dll
+G:\Pro\Iden\IdentityServerProject\obj\Debug\netcoreapp2.0\IdentityServerProject.pdb

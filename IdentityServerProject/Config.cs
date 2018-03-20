@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using IdentityServer4.Models;
+using IdentityServer4.Test;
 
 namespace IdentityServerProject
 {
@@ -22,10 +23,12 @@ namespace IdentityServerProject
             {
                  new Client
                  {
-                     ClientId = "client",
+                     ClientId = "ro.client",
                 
                      // no interactive user, use the clientid/secret for authentication
-                     AllowedGrantTypes = GrantTypes.ClientCredentials,
+                     //AllowedGrantTypes = GrantTypes.ClientCredentials,
+                     AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
+
                 
                      // secret for authentication
                      ClientSecrets =
@@ -38,7 +41,24 @@ namespace IdentityServerProject
                  }
              };
         }
-
+        public static List<TestUser> GetUsers()
+        {
+          return new List<TestUser>
+            {
+                new TestUser
+                {
+                    SubjectId = "1",
+                    Username = "alice",
+                    Password = "password"
+                },
+                new TestUser
+                {
+                    SubjectId = "2",
+                    Username = "bob",
+                    Password = "password"
+                }
+            };
+        }
 
     }
 }

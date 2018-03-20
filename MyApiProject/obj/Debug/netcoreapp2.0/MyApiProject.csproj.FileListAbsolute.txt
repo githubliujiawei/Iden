@@ -9,3 +9,14 @@
 /Users/liujiawei/Projects/IdentityServerProject/MyApiProject/obj/Debug/netcoreapp2.0/MyApiProject.AssemblyInfo.cs
 /Users/liujiawei/Projects/IdentityServerProject/MyApiProject/obj/Debug/netcoreapp2.0/MyApiProject.dll
 /Users/liujiawei/Projects/IdentityServerProject/MyApiProject/obj/Debug/netcoreapp2.0/MyApiProject.pdb
+G:\Pro\Iden\MyApiProject\bin\Debug\netcoreapp2.0\MyApiProject.deps.json
+G:\Pro\Iden\MyApiProject\bin\Debug\netcoreapp2.0\MyApiProject.runtimeconfig.json
+G:\Pro\Iden\MyApiProject\bin\Debug\netcoreapp2.0\MyApiProject.runtimeconfig.dev.json
+G:\Pro\Iden\MyApiProject\bin\Debug\netcoreapp2.0\MyApiProject.dll
+G:\Pro\Iden\MyApiProject\bin\Debug\netcoreapp2.0\MyApiProject.pdb
+G:\Pro\Iden\MyApiProject\obj\Debug\netcoreapp2.0\MyApiProject.csprojResolveAssemblyReference.cache
+G:\Pro\Iden\MyApiProject\obj\Debug\netcoreapp2.0\MyApiProject.csproj.CoreCompileInputs.cache
+G:\Pro\Iden\MyApiProject\obj\Debug\netcoreapp2.0\MyApiProject.AssemblyInfoInputs.cache
+G:\Pro\Iden\MyApiProject\obj\Debug\netcoreapp2.0\MyApiProject.AssemblyInfo.cs
+G:\Pro\Iden\MyApiProject\obj\Debug\netcoreapp2.0\MyApiProject.dll
+G:\Pro\Iden\MyApiProject\obj\Debug\netcoreapp2.0\MyApiProject.pdb

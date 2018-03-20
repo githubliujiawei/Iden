@@ -18,12 +18,18 @@
     },
     "MyApiProject": {
       "commandName": "Project",
-      "launchBrowser": true,
       "launchUrl": "api/values",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:5000/"
+      "applicationUrl": "http://localhost:5001/"
+    },
+    "QuickP": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "键": "值"
+      },
+      "applicationUrl": "http://localhost:5001/"
     }
   }
 }
